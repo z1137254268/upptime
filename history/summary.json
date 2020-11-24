@@ -1,42 +1,18 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "slug": "google",
+    "name": "RDPAI",
+    "url": "https://rdpai.utools.club",
+    "slug": "rdpai",
     "status": "up",
     "uptime": "100.00%",
-    "time": 40
+    "time": 1235
   },
   {
-    "name": "Wikipedia",
-    "url": "https://en.wikipedia.org",
-    "slug": "wikipedia",
+    "name": "SuperPi@Home",
+    "url": "https://piathome.utools.club",
+    "slug": "super-pi-home",
     "status": "up",
     "uptime": "100.00%",
-    "time": 141
-  },
-  {
-    "name": "Hacker News",
-    "url": "https://news.ycombinator.com",
-    "slug": "hacker-news",
-    "status": "up",
-    "uptime": "100.00%",
-    "time": 256
-  },
-  {
-    "name": "Broken Site",
-    "url": "https://thissitedoesnotexist.com",
-    "slug": "broken-site",
-    "status": "down",
-    "uptime": "100.00%",
-    "time": 0
-  },
-  {
-    "name": "Secret Site",
-    "url": "$SECRET_SITE",
-    "slug": "secret-site",
-    "status": "down",
-    "uptime": "100.00%",
-    "time": 0
+    "time": 1639
   }
 ]
