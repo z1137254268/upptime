@@ -4,15 +4,15 @@
     "url": "https://rdpai.utools.club",
     "slug": "rdpai",
     "status": "up",
-    "uptime": "27.18%",
+    "uptime": "28.30%",
     "time": 2047
   },
   {
     "name": "SuperPi@Home",
     "url": "https://piathome.utools.club",
     "slug": "super-pi-home",
-    "status": "down",
-    "uptime": "27.17%",
-    "time": 1081
+    "status": "up",
+    "uptime": "28.30%",
+    "time": 1814
   }
 ]
