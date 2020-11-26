@@ -5,7 +5,7 @@ repo: upptime # Your Github repository name
 # Add your sites here
 sites:
   - name: Neu
-    url: https://neu.banszd.top
+    url: https://banszd.top
   - name: SuperPi@Home
     url: https://piathome.utools.club
 
