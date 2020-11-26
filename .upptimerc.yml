@@ -6,8 +6,8 @@ repo: upptime # Your Github repository name
 sites:
   - name: Neu
     url: https://banszd.top
-  - name: SuperPi@Home
-    url: https://piathome.utools.club
+  - name: u
+    url: http://1.ibo.ink
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
